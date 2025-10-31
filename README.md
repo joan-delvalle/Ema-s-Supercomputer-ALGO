@@ -1,1 +1,1 @@
-# Ema-s-Supercomputer-ALGO
+# Ema-s-Supercomputer-ALGO The program will find two non-overlapping plus-shaped patterns made of 'G' cells in a grid and calculate the maximum product of their areas. The twoPluses function (currently empty) needs to implement logic to detect all possible pluses, check overlaps, and compute the largest product.
